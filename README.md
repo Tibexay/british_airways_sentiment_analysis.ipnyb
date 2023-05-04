@@ -1,4 +1,4 @@
-##British Airways reviewa sentiment_analysis
+#British_Airways_review_sentiment_analysis
 In this project, I analyzed 2000 customer reviews for British Airways from airlinequality.com to uncover key insights and trends in customer satisfaction using natural language processing techniques.
 
 The data source: 2000 reviews scraped from airlinequality.com
